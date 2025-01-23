@@ -1,6 +1,6 @@
 # WELCOME ALL
 - 👋 Hi, I’m Quang Huy Pham
-- I'm studying at HCMUTE
+- I graduated as an engineer in Automation and Control Engineering Technology at HCMUTE
 - Contact via email: quanghuypham.work@gmail.com
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
